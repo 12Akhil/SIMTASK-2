@@ -1,4 +1,4 @@
-const API_KEY = "Create your own api key on tmdb";
+const API_KEY = "2a55ca665708debb4cbc730aeab1aeef";
 
 
 const requests = {
