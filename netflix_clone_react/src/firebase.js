@@ -8,13 +8,14 @@ import 'firebase/compat/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCtYIc3e10Iw72rELfwXBQExRHMn8SHqLg",
-  authDomain: "netflix-react-ba3df.firebaseapp.com",
-  projectId: "netflix-react-ba3df",
-  storageBucket: "netflix-react-ba3df.appspot.com",
-  messagingSenderId: "383283167695",
-  appId: "1:383283167695:web:d649755c1773e0b48c92ba"
+  apiKey: "AIzaSyBVK8oIi5BorvQwTtPHU1sNtMpQHXF4Sf0",
+  authDomain: "simtask-2.firebaseapp.com",
+  projectId: "simtask-2",
+  storageBucket: "simtask-2.appspot.com",
+  messagingSenderId: "1053400564510",
+  appId: "1:1053400564510:web:e2c93b062d786d283f3f0f"
 };
+
 
 // Initialize Firebase
 const firebaseApp= firebase.initializeApp(firebaseConfig);
